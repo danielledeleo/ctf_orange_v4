@@ -21,7 +21,10 @@ Added light ambient sound
 Better wood textures in some places
 Added some textured ground to the top of the map (mining theme)
 Fixed HDR compilation issue from v4d
-Stopped including BSP files
+
+Project Notes:
+Stopped including BSP files (and removed old ones)
+Added screenshot of v4
 
 TODO:
 Lighting in tunnels
@@ -33,9 +36,12 @@ Changes - v4d:
 RED:
 Moved intelligence building away from spawn
 Added corner ramps to elevators
+Added glass to bunker to front wall
+Moved back wall of bunker to the right side
 
 BLU:
 Fixed brush misalignment at the back of base
 
 General:
+Removed tunnel player_clips (Kappa)
 Accidentally compiled with HDR enabled
