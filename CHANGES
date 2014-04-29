@@ -38,6 +38,8 @@ Moved intelligence building away from spawn
 Added corner ramps to elevators
 Added glass to bunker to front wall
 Moved back wall of bunker to the right side
+Fixed half-octagon tunnel thing clipping
+Shortened half walls near wall entrance 
 
 BLU:
 Fixed brush misalignment at the back of base
