@@ -1,0 +1,41 @@
+Changes - v4e:
+
+RED:
+Changed glass texture on bunker to a chicken wire/glass
+Moved metal panel (added in v4d) to cover window
+Deleted smaller metal panel
+Wall:
+	Adjusted wall centering
+	Lined up top and bottom windows
+	Made top-middle and bottom windows walkable
+Added roof to tunnel
+Added rough mining theme to tunnel area
+
+BLU:
+Added roofs to both tunnels
+
+General:
+Added player_clips to trouble spots (like tunnel doorways)
+Fixed some texture overlaps and misalignments
+Added light ambient sound
+Better wood textures in some places
+Added some textured ground to the top of the map (mining theme)
+Fixed HDR compilation issue from v4d
+Stopped including BSP files
+
+TODO:
+Lighting in tunnels
+
+---
+
+Changes - v4d:
+
+RED:
+Moved intelligence building away from spawn
+Added corner ramps to elevators
+
+BLU:
+Fixed brush misalignment at the back of base
+
+General:
+Accidentally compiled with HDR enabled
