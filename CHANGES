@@ -1,4 +1,27 @@
-Changes - v4e:
+Changes - v4f (5/1/2014):
+"The lighting update"
+
+RED:
+* Changed intel building texture to brick
+* Adjusted window sizes again
+
+BLU:
+* Shrunk rear wooden platform back (to prevent scouts from jumping over the wall)
+* Increased intel room size a little more
+* Adjust many rear wall brush widths
+* More texture alignment fixes
+
+Lighting:
+* BLU and RED intel rooms
+* Tunnels (BLU's are very pretty)
+* RED sniper ramp-tower
+* Removed lights from RED/BLU middle buildings
+
+General:
+* Added some more dirt displacements around the map (RED and middle done!)
+* Reduced the number of textures used in some areas
+
+Changes - v4e (4/30/2014):
 
 RED:
 Changed glass texture on bunker to a chicken wire/glass
@@ -39,7 +62,7 @@ Added corner ramps to elevators
 Added glass to bunker to front wall
 Moved back wall of bunker to the right side
 Fixed half-octagon tunnel thing clipping
-Shortened half walls near wall entrance 
+Shortened half walls near wall entrance
 
 BLU:
 Fixed brush misalignment at the back of base
